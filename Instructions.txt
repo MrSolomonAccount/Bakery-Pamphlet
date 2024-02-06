@@ -1,0 +1,15 @@
+https://www.youtube.com/watch?v=ZJy3I98Wxwk
+1. layout tab> size A4
+2. Orientation landscape
+3. margins 0.25'' on all sides
+4. insert rectangle
+5. set the width of the rectangle to 3.89''
+6. set height to 8.27"
+7. change shape fill color and remove outline
+8. align text to top in all rectanles in shape format
+9. insert a textbox 
+10. Center textbox 
+11. insert a double wave shape
+12. look for a cake png, download and insert it.
+13. make it infront of text
+14. add drop shadown effect to the picture
